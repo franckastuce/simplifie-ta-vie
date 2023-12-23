@@ -126,7 +126,7 @@ export function MainNav() {
               <ListItem href="/Accueil" title="Déscriptif et fonctionement">
                 Application qui vous simplifie la vie, sur les différentes recherche du quotidiens.
               </ListItem>
-              <ListItem href="/Profil" title="Profil">
+              <ListItem href="#" title="Profil">
                 Les données qu'il y aura sur votre profil sont étudié pour que vous n'ayer pas à remplir les informations des sites qui vous les demanderais dans la version 2.
               </ListItem>
               <ListItem href="/Accueil" title="Accueil">
