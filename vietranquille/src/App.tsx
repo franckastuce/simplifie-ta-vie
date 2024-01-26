@@ -43,6 +43,7 @@ function App() {
         <Route path="/Moving" element={<Moving />} />
         <Route path="/Dealer" element={<Dealer />} />
         <Route path="/Login" element={<Login />} />
+        <Route path="/Carr" element={<Carr />} />
       </Routes>
 
 
@@ -56,11 +57,9 @@ export default App
         <Route path="/Registration" element={<Registration />} />
         <Route path="/ForgottenPassword" element={<ForgottenPassword />} />
         <Route path="/Moving" element={<Moving />} />
-        <Route path="/Dealer" element={<Dealer />} />
         <Route path="/Login" element={<Login />} />
           <Route path="/Recover" element={<Recover />} />
         <Route path="/Add" element={<Add />} />
         <Route path="/Doc" element={<Doc />} />
     <Route path="/Housse" element={<Housse />} />
-     <Route path="/Carr" element={<Carr />} />
         */

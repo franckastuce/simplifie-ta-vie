@@ -56,7 +56,7 @@ const components: { title: string; href: string; description: string }[] = [
     href: "#",
     description:
       "Cette pages vous permettra de trouver des artisant prés de chez pour d'éventuel travaus a faire dans la maison.",
-  },
+  },*/
   {
     title: "Voitures",
     href: "/Carr",
@@ -68,7 +68,7 @@ const components: { title: string; href: string; description: string }[] = [
     href: "/Dealer",
     description:
       "Cette pages vous permettra de trouver la voiture qui te va.",
-  },*/
+  },
   {
     title: "Impôts",
     href: "/Taxes",
