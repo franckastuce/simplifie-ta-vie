@@ -50,13 +50,13 @@ const components: { title: string; href: string; description: string }[] = [
     href: "/Elec",
     description:
       "Le fournisseur d'électriciter chez lequel vous êtes",
-  },/*
+  },
   {
     title: "Maison",
-    href: "#",
+    href: "/Housse",
     description:
       "Cette pages vous permettra de trouver des artisant prés de chez pour d'éventuel travaus a faire dans la maison.",
-  },*/
+  },
   {
     title: "Voitures",
     href: "/Carr",
