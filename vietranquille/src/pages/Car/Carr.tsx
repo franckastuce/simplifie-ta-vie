@@ -46,9 +46,10 @@ export function Carr() {
             <Card className="m-6 shadow-lg">
                 <CardHeader>
                     <CardTitle>Contôle technique</CardTitle>
+                    <CardDescription>En cour de construction</CardDescription>
                     <CardDescription>CT prés de chez toi, quand c'est ton prochain CT?</CardDescription>
                 </CardHeader>
-                <CardContent className="grid gap-6">
+                {/*<CardContent className="grid gap-6">
                     <RadioGroup defaultValue="card" className="grid grid-cols-3 gap-4">
 
                         <Link className="shadow-lg w-full h-full" to="#" >
@@ -67,7 +68,7 @@ export function Carr() {
                             </div>
                         </Link>
                     </RadioGroup>
-                </CardContent>
+    </CardContent>*/}
             </Card >
         </div>
     );

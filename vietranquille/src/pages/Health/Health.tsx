@@ -22,39 +22,39 @@ const components: { title: string; p: string; to: string }[] = [
     {
         title: "généraliste",
         p: "",
-        to: "https://www.google.fr/maps/search/m%C3%A9decin+g%C3%A9n%C3%A9raliste/@43.9287771,5.0528256,14z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps"
     },
     {
         title: "CHU",
         p: "",
-        to: "https://www.google.fr/maps/search/CHU/@43.9223798,4.9750849,11.81z?entry=ttu"
+        to: "https://www.google.fr/maps/search/CHU"
     },
     {
         title: "Dentistes",
         p: "spécialiste",
-        to: "https://www.google.fr/maps/search/dentiste/@43.9225846,4.9746937,11z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps/search/dentiste/"
     },
     {
         title: "podologue",
         p: "spécialiste",
-        to: "https://www.google.fr/maps/search/podologue/@43.9228424,4.9740064,11z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps/search/podologue"
     },
     {
         title: "opticiens",
         p: "spécialiste",
-        to: "https://www.google.fr/maps/search/opticiens/@43.9231001,4.9733191,11z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps/search/opticiens"
     },
     {
         title: "ORL",
         p: "spécialiste",
-        to: "https://www.google.fr/maps/search/ORL/@43.9233579,4.9726317,11z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps/search/ORL"
     },
 ]
 const animaux: { title: string; p: string; to: string }[] = [
     {
         title: "Vétérinaire",
         p: "",
-        to: "https://www.google.fr/maps/search/v%C3%A9t%C3%A9rinaire/@43.9288389,5.0527398,14z/data=!3m1!4b1?entry=ttu"
+        to: "https://www.google.fr/maps"
     },
     {
         title: "SPA",
@@ -64,7 +64,7 @@ const animaux: { title: string; p: string; to: string }[] = [
     {
         title: "Animalis",
         p: "",
-        to: "https://www.google.fr/maps/search/animalise/@43.9663916,4.9346394,11.47z?entry=ttu"
+        to: "https://www.google.fr/maps/search/animalise"
     },
 ]
 

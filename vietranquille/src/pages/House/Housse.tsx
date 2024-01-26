@@ -23,6 +23,7 @@ export function Housse() {
             <CardHeader>
                 <CardTitle>Maison</CardTitle>
                 <CardDescription>tout ce que l'on trouve dans une maison</CardDescription>
+                <CardDescription className="text-red-300">En cour de construction</CardDescription>
             </CardHeader>
             <CardContent className="grid gap-6">
                 <RadioGroup defaultValue="card" className="grid grid-cols-3 gap-4">
