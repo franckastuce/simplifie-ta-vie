@@ -118,19 +118,19 @@ export function MainNav() {
                       Déscriptif
                     </div>
                     <p className="text-sm leading-tight text-muted-foreground">
-                      SimpleLife vous permettra de vous simplifier la vie, sur les différentes recherches du quotidien, la version 2 sera complétée, c'est un system par cartes qui recences (pour la Frances) les différents distributeurs des services du quotidiens, et autre entrepreneur de votre région, avec la géolocalisation.
+                      SimpleLife te permet de simplifier ta vie, sur les différentes recherches du quotidien, c'est un system par cartes qui recences (pour la Frances) les différents distributeurs des services du quotidiens.
                     </p>
                   </a>
                 </NavigationMenuLink>
               </li>
               <ListItem href="/Accueil" title="Déscriptif et fonctionement">
-                Application qui vous simplifie la vie, sur les différentes recherche du quotidiens.
+                Application de recherche du quotidiens.
               </ListItem>
               <ListItem href="#" title="Profil">
                 Les données qu'il y aura sur votre profil sont étudié pour que vous n'ayer pas à remplir les informations des sites qui vous les demanderais dans la version 2.
               </ListItem>
               <ListItem href="/Accueil" title="Accueil">
-                Page d'accueil ou toutes les pages sont listés et accéssible , avec une prévisualisation de la version 2.
+                Affichage de toutes les pages sont listés et accéssible.
               </ListItem>
             </ul>
           </NavigationMenuContent>
